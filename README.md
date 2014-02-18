@@ -1,8 +1,16 @@
-API interface project for Talentlines.com
-===========================================
+Web service API interface project for [TalentLists](http://www.talentlists.com)
+================================================================================
 
-Talentlines.com, is [an integrated talent management and recruitment system](http://www.talentlines.com).
+Talentlists.com, is [an online recruitment management system](http://www.talentlists.com). It can be used to:
 
-The project is used to publish API to access the services provided by talentlines.com.
+* Recruitment Managment
+* Talent Management
+* Applicant Tracking
+* Interview Mangement
+
+Visit http://www.talentlists.com/pages/features to learn more.
+
+
+This project is created to publish the Web Service API to access the services provided by talentlists.com.
 
 
