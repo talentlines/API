@@ -7,6 +7,7 @@ Talentlists.com, is [an online recruitment management system](http://www.talentl
 * Talent Management
 * Applicant Tracking
 * Interview Mangement
+* Resume Management
 
 Visit http://www.talentlists.com/pages/features to learn more.
 
